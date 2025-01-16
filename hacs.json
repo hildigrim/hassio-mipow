@@ -2,5 +2,5 @@
     "name": "Mipow PlayBulb integration",
     "render_readme": true,
     "domains": ["light"],
-    "homeassistant": "2022.9.0"
+    "homeassistant": "2025.1"
   }
